@@ -1,0 +1,116 @@
+MPBoot version 1.1.0 for Linux 64-bit built Mar 23 2018
+Copyright (c) 2016 Diep Thi Hoang, Le Sy Vinh, Tomas Flouri, Alexandros Stamatakis, Arndt von Haeseler and Bui Quang Minh.
+
+Host:    ASB (SSE4.2, 16 GB RAM)
+Command: mpboot -s concatenatedFirstAlignment.fas
+Seed:    263295 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri May 17 18:44:10 2024
+Kernel:  SSE3
+
+Reading alignment file concatenatedFirstAlignment.fas ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+WARNING: 96 sites contain only gaps or ambiguous chars.
+Alignment has 60 sequences with 4460 columns and 1903 patterns
+ID   Sequence                       #Gap/Ambiguity
+1    Abudefduf_bengalensis          300  (6.726%)	5
+2    Abudefduf_hoefleri             336  (7.534%)	5
+3    Abudefduf_luridus              480  (10.762%)	7
+4    Abudefduf_notatus              299  (6.704%)	6
+5    Abudefduf_saxatilis            369  (8.274%)	7
+6    Abudefduf_septemfasciatus      319  (7.152%)	8
+7    Abudefduf_sexfasciatus         305  (6.839%)	8
+8    Abudefduf_sordidus             297  (6.659%)	4
+9    Abudefduf_taurus               309  (6.928%)	6
+10   Abudefduf_whitleyi             307  (6.883%)	5
+11   Azurina_hirundo                296  (6.637%)	5
+12   Chromis_alpha                  302  (6.771%)	7
+13   Chromis_amboinensis            325  (7.287%)	7
+14   Chromis_analis                 336  (7.534%)	6
+15   Chromis_atripectoralis         331  (7.422%)	7
+16   Chromis_chromis                337  (7.556%)	9
+17   Chromis_margaritifer           354  (7.937%)	7
+18   Chromis_multilineata           340  (7.623%)	8
+19   Chromis_opercularis            300  (6.726%)	6
+20   Chromis_ovatiformis            345  (7.735%)	6
+21   Chromis_punctipinnis           294  (6.592%)	6
+22   Chromis_retrofasciata          330  (7.399%)	8
+23   Chromis_ternatensis            356  (7.982%)	4
+24   Chromis_viridis                311  (6.973%)	9
+25   Chromis_weberi                 330  (7.399%)	7
+26   Chromis_xanthochira            304  (6.816%)	8
+27   Chromis_xanthura               295  (6.614%)	6
+28   Dascyllus_aruanus              312  (6.996%)	8
+29   Dascyllus_melanurus            304  (6.816%)	8
+30   Dascyllus_reticulatus          323  (7.242%)	9
+31   Dascyllus_trimaculatus         393  (8.812%)	8
+32   Hypsypops_rubicundus           477  (10.695%)	6
+33   Lepidozygus_tapeinosoma        797  (17.870%)	9
+34   Mecaenichthys_immaculatus      359  (8.049%)	7
+35   Microspathodon_chrysurus       295  (6.614%)	5
+36   Microspathodon_dorsalis        396  (8.879%)	6
+37   Nexilosus_latifrons            3647 (81.771%) !!!	4
+38   Parma_microlepis               330  (7.399%)	6
+39   Plectroglyphidodon_dickii      355  (7.960%)	5
+40   Plectroglyphidodon_lacrymatus  295  (6.614%)	7
+41   Plectroglyphidodon_leucozonus  424  (9.507%)	6
+42   Similiparma_hermani            299  (6.704%)	7
+43   Stegastes_apicalis             326  (7.309%)	5
+44   Stegastes_diencaeus            344  (7.713%)	6
+45   Stegastes_fasciolatus          428  (9.596%)	8
+46   Stegastes_imbricatus           461  (10.336%)	7
+47   Stegastes_leucostictus         431  (9.664%)	5
+48   Stegastes_nigricans            327  (7.332%)	5
+49   Stegastes_obreptus             392  (8.789%)	5
+50   Stegastes_partitus             373  (8.363%)	6
+51   Centropyge_bicolor             517  (11.592%)	6
+52   Cymatogaster_aggregata         362  (8.117%)	5
+53   Cypho_purpurascens             550  (12.332%)	5
+54   Tilapia_buttikoferi            368  (8.251%)	4
+55   Amphistichus_argenteus         287  (6.435%)	4
+56   Embiotoca_jacksoni             277  (6.211%)	5
+57   Semicossyphus_pulcher          506  (11.345%)	4
+58   Ptychochromis_oligacanthus     379  (8.498%)	4
+59   Lachnolaimus_maximus           476  (10.673%)	6
+60   Thorichthys_meeki              349  (7.825%)	4
+WARNING: 1 sequences contain more than 50% gaps/ambiguity
+**** TOTAL                          24966 (9.330%)
+Time for parsimony tree construction: 0.049 seconds
+Parsimony score: 7946
+Reordering patterns in alignment by decreasing order of pattern parsimony... 0.001 seconds
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.007 seconds
+
+NOTE: 19.655 MB RAM is required!
+Current best tree score: 7909
+
+Generating 99 parsimony trees... (94 duplicated parsimony trees)
+CPU time: 1
+Finish initializing candidate tree set. Number of distinct locally optimal trees: 6
+Current best score: 7909 / CPU time: 1
+
+Time: 0h:0m:0s
+RATCHET Iteration 10 / Score: 7909 / Time: 0h:0m:1s
+RATCHET Iteration 20 / Score: 7909 / Time: 0h:0m:1s (0h:0m:5s left)
+RATCHET Iteration 30 / Score: 7909 / Time: 0h:0m:1s (0h:0m:3s left)
+RATCHET Iteration 40 / Score: 7909 / Time: 0h:0m:1s (0h:0m:2s left)
+RATCHET Iteration 50 / Score: 7909 / Time: 0h:0m:1s (0h:0m:1s left)
+RATCHET Iteration 60 / Score: 7909 / Time: 0h:0m:1s (0h:0m:1s left)
+RATCHET Iteration 70 / Score: 7909 / Time: 0h:0m:1s (0h:0m:0s left)
+RATCHET Iteration 80 / Score: 7921 / Time: 0h:0m:2s (0h:0m:0s left)
+RATCHET Iteration 90 / Score: 7909 / Time: 0h:0m:2s (0h:0m:0s left)
+RATCHET Iteration 100 / Score: 7909 / Time: 0h:0m:2s (0h:0m:0s left)
+Scores of best 5 trees: 
+7909 7909 7909 7909 7921 
+BEST SCORE FOUND : 7909
+
+CPU time used for tree search: 2.248 sec (0h:0m:2s)
+Wall-clock time used for tree search: 2.252 sec (0h:0m:2s)
+Total CPU time used: 2.308 sec (0h:0m:2s)
+Total wall-clock time used: 2.339 sec (0h:0m:2s)
+
+Analysis results written to: 
+  MPBoot report:                 concatenatedFirstAlignment.fas.mpboot
+  Maximum-parsimony  tree:       concatenatedFirstAlignment.fas.treefile
+  Screen log file:               concatenatedFirstAlignment.fas.log
+
+Date and Time: Fri May 17 18:44:12 2024

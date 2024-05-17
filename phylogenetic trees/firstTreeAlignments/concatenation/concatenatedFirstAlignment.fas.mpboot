@@ -1,0 +1,150 @@
+MPBoot 1.1.0 built Mar 23 2018
+
+Input file name: concatenatedFirstAlignment.fas
+Type of analysis: Parsimony tree reconstruction
+Random seed number: 263295
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 60 sequences with 4460 nucleotide sites
+Number of constant sites: 2611 (= 58.5426% of all sites)
+Number of site patterns: 1903
+
+MAXIMUM PARSIMONY TREE
+-----------------------
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Abudefduf_bengalensis' is drawn at root
+
++--Abudefduf_bengalensis
+|
+|     +--Abudefduf_hoefleri
+|  +--|
+|  |  +--Abudefduf_saxatilis
++--|
+|  +--Abudefduf_sexfasciatus
+|
+|                                +--Abudefduf_luridus
+|                             +--|
+|                             |  +--Similiparma_hermani
+|                          +--|
+|                          |  +--Hypsypops_rubicundus
+|                       +--|
+|                       |  |  +--Microspathodon_chrysurus
+|                       |  +--|
+|                       |     +--Microspathodon_dorsalis
+|                    +--|
+|                    |  |           +--Nexilosus_latifrons
+|                    |  |        +--|
+|                    |  |        |  +--Stegastes_fasciolatus
+|                    |  |     +--|
+|                    |  |     |  |  +--Stegastes_apicalis
+|                    |  |     |  +--|
+|                    |  |     |     +--Stegastes_obreptus
+|                    |  |  +--|
+|                    |  |  |  +--Plectroglyphidodon_leucozonus
+|                    |  +--|
+|                    |     +----Plectroglyphidodon_dickii
+|                 +--|
+|                 |  |     +----Plectroglyphidodon_lacrymatus
+|                 |  |  +--|
+|                 |  |  |  +----Stegastes_nigricans
+|                 |  +--|
+|                 |     |           +--Stegastes_diencaeus
+|                 |     |        +--|
+|                 |     |        |  +--Stegastes_leucostictus
+|                 |     |     +--|
+|                 |     |     |  +----Stegastes_partitus
+|                 |     +-----|
+|                 |           +---Stegastes_imbricatus
+|              +--|
+|              |  |   +---------Lepidozygus_tapeinosoma
+|              |  +---|
+|              |      |                    +-----------Centropyge_bicolor
+|              |      |              +-----|
+|              |      |              |     |      +-------Semicossyphus_pulcher
+|              |      |              |     +------|
+|              |      |              |            +---------Lachnolaimus_maximus
+|              |      |         +----|
+|              |      |         |    +-------------Cypho_purpurascens
+|              |      |     +---|
+|              |      |     |   |         +------Tilapia_buttikoferi
+|              |      |     |   |      +--|
+|              |      |     |   |      |  +-------Thorichthys_meeki
+|              |      |     |   +------|
+|              |      |     |          +-------Ptychochromis_oligacanthus
+|              |      +-----|
+|              |            |           +---Cymatogaster_aggregata
+|              |            |        +--|
+|              |            |        |  +--Embiotoca_jacksoni
+|              |            +--------|
+|              |                     +--Amphistichus_argenteus
+|           +--|
+|           |  |  +--Mecaenichthys_immaculatus
+|           |  +--|
+|           |     +--Parma_microlepis
+|        +--|
+|        |  |           +---Azurina_hirundo
+|        |  |        +--|
+|        |  |        |  +--Chromis_multilineata
+|        |  |     +--|
+|        |  |     |  |             +--Chromis_amboinensis
+|        |  |     |  |          +--|
+|        |  |     |  |          |  +--Chromis_ovatiformis
+|        |  |     |  |       +--|
+|        |  |     |  |       |  +--Chromis_retrofasciata
+|        |  |     |  |  +----|
+|        |  |     |  |  |    +--Chromis_margaritifer
+|        |  |     |  +--|
+|        |  |     |     |      +--Dascyllus_aruanus
+|        |  |     |     |   +--|
+|        |  |     |     |   |  +--Dascyllus_melanurus
+|        |  |     |     +---|
+|        |  |     |         |  +--Dascyllus_reticulatus
+|        |  |     |         +--|
+|        |  |     |            +--Dascyllus_trimaculatus
+|        |  |  +--|
+|        |  |  |  |           +--Chromis_alpha
+|        |  |  |  |        +--|
+|        |  |  |  |        |  |  +--Chromis_opercularis
+|        |  |  |  |        |  +--|
+|        |  |  |  |        |     +--Chromis_xanthura
+|        |  |  |  |     +--|
+|        |  |  |  |     |  |  +--Chromis_analis
+|        |  |  |  |     |  +--|
+|        |  |  |  |     |     |  +--Chromis_weberi
+|        |  |  |  |     |     +--|
+|        |  |  |  |     |        +--Chromis_xanthochira
+|        |  |  |  |  +--|
+|        |  |  |  |  |  +--Chromis_chromis
+|        |  |  |  +--|
+|        |  |  |     +--Chromis_punctipinnis
+|        |  +--|
+|        |     |     +--Chromis_atripectoralis
+|        |     |  +--|
+|        |     |  |  +--Chromis_viridis
+|        |     +--|
+|        |        +---Chromis_ternatensis
+|     +--|
+|     |  +---Abudefduf_taurus
+|  +--|
+|  |  |  +--Abudefduf_notatus
+|  |  +--|
+|  |     |  +--Abudefduf_septemfasciatus
+|  |     +--|
+|  |        +--Abudefduf_sordidus
++--|
+   +--Abudefduf_whitleyi
+
+Parsimony score of the tree: 7909
+Tree in newick format:
+
+(Abudefduf_bengalensis,((Abudefduf_hoefleri,Abudefduf_saxatilis),Abudefduf_sexfasciatus),(((((((((((Abudefduf_luridus,Similiparma_hermani),Hypsypops_rubicundus),(Microspathodon_chrysurus,Microspathodon_dorsalis)),((((Nexilosus_latifrons,Stegastes_fasciolatus),(Stegastes_apicalis,Stegastes_obreptus)),Plectroglyphidodon_leucozonus),Plectroglyphidodon_dickii)),((Plectroglyphidodon_lacrymatus,Stegastes_nigricans),(((Stegastes_diencaeus,Stegastes_leucostictus),Stegastes_partitus),Stegastes_imbricatus))),(Lepidozygus_tapeinosoma,((((Centropyge_bicolor,(Semicossyphus_pulcher,Lachnolaimus_maximus)),Cypho_purpurascens),((Tilapia_buttikoferi,Thorichthys_meeki),Ptychochromis_oligacanthus)),((Cymatogaster_aggregata,Embiotoca_jacksoni),Amphistichus_argenteus)))),(Mecaenichthys_immaculatus,Parma_microlepis)),((((Azurina_hirundo,Chromis_multilineata),((((Chromis_amboinensis,Chromis_ovatiformis),Chromis_retrofasciata),Chromis_margaritifer),((Dascyllus_aruanus,Dascyllus_melanurus),(Dascyllus_reticulatus,Dascyllus_trimaculatus)))),((((Chromis_alpha,(Chromis_opercularis,Chromis_xanthura)),(Chromis_analis,(Chromis_weberi,Chromis_xanthochira))),Chromis_chromis),Chromis_punctipinnis)),((Chromis_atripectoralis,Chromis_viridis),Chromis_ternatensis))),Abudefduf_taurus),(Abudefduf_notatus,(Abudefduf_septemfasciatus,Abudefduf_sordidus))),Abudefduf_whitleyi));
+
+TIME STAMP
+----------
+
+Date and time: Fri May 17 18:44:12 2024
+Total CPU time used: 2.3084 seconds (0h:0m:2s)
+Total wall-clock time used: 2.34067 seconds (0h:0m:2s)
+
