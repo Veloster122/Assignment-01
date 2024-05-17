@@ -74,3 +74,6 @@ for /f "usebackq tokens=*" %%A in ("%input_fasta%") do (
 
 endlocal
 ```
+and 
+
+
