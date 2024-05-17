@@ -37,3 +37,11 @@ start the program with command:
 ```bash
 aliview 
 ```
+To install MEGA software:
+
+https://www.megasoftware.net/dload_debian_gui
+
+after downloading the compressed file, use this command to extract:
+```bash
+tar xfvz Mega.tgz 
+```
