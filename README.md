@@ -14,12 +14,25 @@ Command used to align the sequences using mafft:
 ```bash
 mafft --auto input.fasta > output.fasta
 ```
-
 To install MrBayes:
 ```bash
 git clone https://github.com/NBISweden/MrBayes/tree/develop
-cd MrBayes
-#this was a pain in the ass 
+cd MrBayes 
 ./configure
 make && sudo make install
+```
+To install Aliview: https://ormbunkar.se/aliview/downloads/
+The simplest install is to download the file: aliview.install.run
+
+after downloading you will likely need to change the execution rights of the install file:
+```bash
+chmod +x aliview.install.run
+```
+install by issuing command:
+```bash
+sudo ./aliview.install.run
+```
+start the program with command:
+```bash
+aliview 
 ```
