@@ -22,6 +22,7 @@ cd MrBayes
 make && sudo make install
 ```
 To install Aliview: https://ormbunkar.se/aliview/downloads/
+
 The simplest install is to download the file: aliview.install.run
 
 after downloading you will likely need to change the execution rights of the install file:
