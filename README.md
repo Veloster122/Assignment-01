@@ -13,3 +13,5 @@ Command used to align the sequences using mafft:
 
 ```bash
 mafft --auto input.fasta > output.fasta
+
+dadadad
