@@ -14,4 +14,12 @@ Command used to align the sequences using mafft:
 ```bash
 mafft --auto input.fasta > output.fasta
 ```
-dadadad
+
+To install MrBayes:
+```bash
+git clone https://github.com/NBISweden/MrBayes/tree/develop
+cd MrBayes
+#this was a pain in the ass 
+./configure
+make && sudo make install
+```
